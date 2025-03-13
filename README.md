@@ -1,46 +1,43 @@
-👋 Hi, ich bin NothingBut[Arti]!
+👋 Hi, I'm NothingBut[Arti]!
 
-💻 Über mich
+💻 About Me
 
-Ich arbeite aktuell als IT-Architect und Berater mit langjähriger Erfahrung in der Digitalisierung, Reorganisation von IT-Strukturen sowie umfassenden Beratungsprojekten in verschiedensten Branchen. 
-Meine technische Grundlage habe ich ursprünglich im Studium aufgebaut und entwickle nebenbei weiterhin in TypeScript, Vue.js und C#, um meine praktischen Kenntnisse aktuell zu halten.
+I'm currently working as an IT Architect and Consultant with extensive experience in digital transformation, reorganization of IT structures, and comprehensive consulting projects across various industries. My technical foundation was initially built during my studies, and I continuously develop in TypeScript, Vue.js, and C# to keep my practical skills up to date.
 
-🚀 Expertise und Beratungsfelder
+🚀 Expertise and Consulting Fields
 
-IT-Architektur und Digitalisierung
+ IT Architecture and Digitalization
 
-Reorganisation und Optimierung von IT-Strukturen
+Reorganization and Optimization of IT Structures
 
-Strategische IT-Beratung und Technologieevaluation
+Strategic IT Consulting and Technology Evaluation
 
-Projektleitung und Projektsteuerung in komplexen IT-Umgebungen
+Project Management and Control in Complex IT Environments
 
 🔥 Tech Stack
 
-Sprachen: TypeScript, JavaScript, C#
-
+Languages: TypeScript, JavaScript, C#
 Frameworks: Vue.js, .NET
+Databases: MariaDB, SQL Server
+Tools & Software: Git, GitHub, HeidiSQL, Visual Studio, VS Code, High-End Development Environment (64 GB RAM, Radeon RX 7900 XT)
 
-Datenbanken: MariaDB, SQL Server
+🌱 Personal
 
-Tools & Software: Git, GitHub, HeidiSQL, Visual Studio, VS Code, High-End Entwicklungsumgebung (64 GB RAM, Radeon RX 7900 XT)
+Besides my professional activities as an IT Architect and Consultant, I'm a proud father 👶 and enjoy spending quality time with my family. To balance work and personal life, I regularly engage in fitness training and relax in the sauna.
 
-🌱 Persönliches
+🎯 My Goals
 
-Neben meiner beruflichen Tätigkeit als IT-Architect und Berater bin ich stolzer Vater 👶 und genieße die Zeit mit meiner Familie. 
-Als Ausgleich betreibe ich regelmäßig Fitness und entspanne mich gerne in der Sauna.
+Continuous professional growth in IT architecture and consulting
 
-🎯 Meine Ziele
+Regular updates of my development skills
 
-Kontinuierliche berufliche Weiterentwicklung im Bereich IT-Architektur und Consulting
+Creating innovative solutions and practical consulting approaches
 
-Regelmäßige Aktualisierung meiner Entwicklungskompetenzen
+📫 Contact Me
 
-Aufbau von innovativen Lösungen und praxisnahen Beratungsansätzen
+Interested in connecting, collaborating, or have questions about IT architecture and digital transformation? Feel free to send me a message or open an issue!
 
-📫 Kontaktiere mich
+Thanks for stopping by! 🚀
 
-Du möchtest dich austauschen, eine Zusammenarbeit anfragen oder hast Fragen zu IT-Architektur und Digitalisierung? Schreib mir gerne eine Nachricht oder eröffne ein Issue!
 
-Danke, dass du vorbeigeschaut hast! 🚀
 
