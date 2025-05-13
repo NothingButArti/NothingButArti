@@ -1,6 +1,6 @@
-👋 Hi, I'm NothingBut[Arti]!
+ Hi, I'm NothingBut[Arti]!
 
-💻 About Me
+ About Me
 
 I'm currently working as an IT Architect and Consultant with extensive experience in digital transformation, reorganization of IT structures, and comprehensive consulting projects across various industries. My technical foundation was initially built during my studies, and I continuously develop in TypeScript, Vue.js, and C# to keep my practical skills up to date.
 
@@ -25,7 +25,7 @@ Tools & Software: Git, GitHub, HeidiSQL, Visual Studio, VS Code, High-End Develo
 
 Besides my professional activities as an IT Architect and Consultant, I'm a proud father 👶 and enjoy spending quality time with my family. To balance work and personal life, I regularly engage in fitness training and relax in the sauna.
 
-🎯 My Goals
+ My Goals
 
 Continuous professional growth in IT architecture and consulting
 
@@ -33,7 +33,7 @@ Regular updates of my development skills
 
 Creating innovative solutions and practical consulting approaches
 
-📫 Contact Me
+ Contact Me
 
 Interested in connecting, collaborating, or have questions about IT architecture and digital transformation? Feel free to send me a message or open an issue!
 
